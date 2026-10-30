@@ -4,7 +4,7 @@
 body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 system-ui,-apple-system,Roboto,sans-serif}
 main{max-width:720px;margin:0 auto;padding:40px 22px 60px}
 header{display:flex;align-items:center;gap:14px;margin-bottom:8px}
-.logo{width:56px;height:56px;border-radius:16px;background:linear-gradient(135deg,#FFA45B,#FF5E7E,#8E44D9);display:grid;place-items:center;font-size:30px}
+.logo{width:56px;height:56px;border-radius:16px;display:block}
 h1{margin:0;font-size:30px}
 h2{margin-top:34px;font-size:21px}
 a{color:var(--accent)}
